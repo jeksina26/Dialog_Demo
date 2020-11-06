@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dialog_Demo</string>
+    <string name="name">Enter Name</string>
+    <string name="submit">Submit</string>
+    <string name="cancle">Cancle</string>
+    <string name="alert">Alert Dialog</string>
+    <string name="datepicker">Date Picker Dialog</string>
+    <string name="timepicker">Time Picker Dialog</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="single_choice">Single Choice-List Dialog</string>
+    <string name="list_dialog">List Dialog</string>
+</resources>
